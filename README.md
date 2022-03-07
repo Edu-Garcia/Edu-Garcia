@@ -1,9 +1,9 @@
-## Olá, meu nome é Eduardo Mello Garcia!
+## Hi there, I'm Eduardo Mello Garcia!
 
-- 👨‍💻 Estagiário em Desenvolvimento Web na <a href="https://centraldofranqueado.com.br/">Central do Franqueado</a>
-- 💻 Trabalho atualmente utilizando React no front-end e Node.js no back-end
-- 📚 Estou estudando TypeScript
-- 📫 E-mail para contato: eduardomgarcia335@gmail.com
+- 👨‍💻 Working as a junior web developer at <a href="https://centraldofranqueado.com.br/">Central do Franqueado</a>.
+- 💻 I work with React and Node.js technologies.
+- 📚 I'm studying TypeScript.
+- 📫 How to reach me: eduardomgarcia335@gmail.com
 
 <div align="center">
   <a href="https://github.com/Edu-Garcia">
