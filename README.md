@@ -1,4 +1,4 @@
-## Hi there, I'm Eduardo Mello Garcia!
+## Hi there, I'm Eduardo!
 
 - 👨‍💻 Working as a junior web developer at <a href="https://centraldofranqueado.com.br/">Central do Franqueado</a>.
 - 💻 I work with React and Node.js technologies.
