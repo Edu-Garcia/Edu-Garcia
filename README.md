@@ -1,8 +1,8 @@
 ## Hi there, I'm Eduardo!
 
 - 👨‍💻 Working as a trainee at <a href="https://softdesign.com.br/">SoftDesign</a>.
-- 💻 I work with React and Node.js technologies.
-- 📚 I'm studying TypeScript.
+- 💻 I work with React, Node.js and TypeScript technologies.
+- 📚 I'm studying MongoDB and Prisma.
 - 📫 How to reach me: eduardomgarcia335@gmail.com
 
 <div align="center">
