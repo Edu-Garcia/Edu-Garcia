@@ -13,7 +13,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Edu-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Edu-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Edu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Edu-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Edu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Edu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="right" alt="Edu-photo" height="180" width="180" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/760327083867373610/950750077289365554/YQ1KEw8qIXmlfdn_QJe-7bDFl6ow_1Lv8oDA6_lq1vbQgmRTtBeAilYiyl-GymdGhwmdId4dkm_kzm4dQuNTrHgdXC5K7BQZ-oo7Wcd1YOT8MABiOIAhFoqYIEfkqBqcTXlQ14bGtDkNuRQGqAFt88a3xcHcKp3xv2jORL39ad2S1HL3T73-lZG2TT1ekpeCqYuRBPw6a2xu3S2rq4gxVSD98w51B8Yh-IzzR1y0S_nemMLxe_LHuHt0U5UIeb5t5yemLEcG6rLcMtP4gVE385ePuC6SzaOX93r0pSgZUwGGxCJZgWuyEoqEugF5UHj6hKVDBVdecfkqEkBUMRWzUvn6_5tpXulysELkA5JezEMZc-CwXnZ9TSybL7XQDCMSAUSRfiacu8U00K3-il3uoySqhSTDcfoUhDWaqLsHR_vqAsGzsR7iq8HTuIpXMbTBxnxT8iuOlyQCQWP4A_1RoSZ3dRgGLld4IMS2V9FNa_-t3rOvNpEsDWu5cUQP..png">
