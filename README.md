@@ -5,11 +5,13 @@
 - 📚 I'm studying MongoDB and Prisma.
 - 📫 How to reach me: eduardomgarcia335@gmail.com
 
-<div align="center">
-  <a href="https://github.com/Edu-Garcia">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Edu-Garcia&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edu-Garcia&layout=compact&langs_count=7&theme=midnight-purple"/>
+<!---<div align="center">
+<a href="https://github.com/Edu-Garcia">
+<img height="160em" src="https://github-readme-stats.vercel.app/blob/master/api?username=Edu-Garcia&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/blob/master/api/top-langs/?username=Edu-Garcia&layout=compact&langs_count=7&theme=midnight-purple"/>
 </div>
+--->
+ 
 <div style="display: inline_block"><br>
   <img align="center" alt="Edu-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Edu-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
