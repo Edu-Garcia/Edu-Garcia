@@ -28,8 +28,8 @@
   <img align="center" alt="Edu-PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql">
   <h2>Studying in this moment</h2>
   <img align="center" alt="Edu-Nestjs" src="https://img.shields.io/badge/-NestJS-0D1117?style=for-the-badge&logo=nestjs&logoColor=E0234E">
-  <img align="center" alt="Edu-MongoDB" src="https://img.shields.io/badge/-MongoDB-0D1117?style=for-the-badge&logo=mongodb">
-  <img align="center" alt="Edu-AntDesign" src="https://img.shields.io/badge/-Ant Design-0D1117?style=for-the-badge&logo=ant-design&logoColor=0f6dff">
+  <img align="center" alt="Edu-Python" src="https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python">
+  <img align="center" alt="Edu-Spring" src="https://img.shields.io/badge/-Spring Boot-0D1117?style=for-the-badge&logo=springboot">
 <!-- Apenas Icones
   <img align="center" alt="Edu-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Edu-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
